@@ -63,9 +63,6 @@ The game calculates the score based on the level reached.
 
 The scoring formula used is:
 
-\[
-\text{Score} = 10 \times 2^{(\text{Level}-1)}
-\]
 
 | Level | Score |
 |---|---:|
